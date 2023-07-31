@@ -6,6 +6,6 @@ const bgImage = document.createElement("img");
 
 bgImage.src = `img/${chosenImage}`;
 
-document.body.appendChild(bgImage);
+document.body.appendChild(bgImage); // body내부에 추가
 
-bgImage.id = "bgImage";
+bgImage.id = "bgImage"; // id 부여
