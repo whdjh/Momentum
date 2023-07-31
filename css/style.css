@@ -1,0 +1,158 @@
+.hidden {
+	display: none;
+}
+  
+body {
+	padding-top: 70px;
+	height: 100%;
+	width: 100%;
+	overflow: hidden;
+}
+  
+#bgImage {
+	position: absolute;
+	width: 100%;
+	height: 100%;
+	top: 0;
+	left: 0;
+	z-index: -5;
+	filter: brightness(50%);
+}
+  
+#login-form {
+	text-align: center;
+	color: black;
+}
+  
+#login-form input {
+	width: 200px;
+	height: 30px;
+	border: none;
+	text-align: center;
+	color: black;
+	background-color: rgba(255, 255, 255, 0.2);
+	transition: all, 0.5s;
+}
+  
+#login-form input:hover {
+	background-color: rgba(255, 255, 255, 0.5);
+}
+  
+#login-form input:hover::-webkit-input-placeholder {
+	color: rgb(41, 39, 39);
+}
+  
+#login-form input:focus {
+	outline: none;
+	background-color: rgb(0, 0, 0);
+	border-style: solid;
+	border-width: 1px;
+	border-color: black;
+}
+  
+#login-form button {
+	margin-left: 10px;
+	border-radius: 30px;
+	font-size: 0.9rem;
+	border: none;
+	color: black;
+	background-color: seashell;
+	width: 80px;
+	height: 30px;
+}
+  
+#login-form button:hover {
+	cursor: pointer;
+}
+  
+#greeting {
+	text-align: center;
+	color: black;
+	font-size: 3rem;
+	margin-top: 10px;
+	margin-bottom: 0;
+	outline-style: none;
+}
+  
+#clock {
+	text-align: center;
+	color: black;
+	font-size: 7rem;
+	margin-bottom: 0;
+}
+  
+#todo-list {
+	text-align: center;
+	color: black;
+}
+  
+#todo-form {
+	text-align: center;
+	margin-top: 20px;
+}
+  
+#todo-form input {
+	width: 500px;
+	height: 30px;
+	font-size: 1rem;
+	text-align: center;
+	color: white;
+	background-color: rgba(255, 255, 255, 0.2);
+	border: none;
+	transition: all, 0.5s;
+}
+  
+#todo-form input:hover {
+	background-color: rgba(255, 255, 255, 0.5);
+}
+  
+#todo-form input:hover::-webkit-input-placeholder {
+	color: rgb(41, 39, 39);
+}
+  
+#todo-form input:focus {
+	outline: none;
+	background-color: rgb(0, 0, 0);
+	border-style: solid;
+	border-width: 1px;
+	border-color: black;
+}
+  
+#todo-list {
+	text-align: center;
+}
+  
+#todo-list li {
+	list-style: none;
+	font-size: 1rem;
+	color: white;
+	height: 30px;
+	width: 500px;
+	margin: auto;
+}
+  
+#todo-list button {
+	margin-left: 10px;
+	background-color: rgba(255, 255, 255, 0.123);
+	outline: none;
+	border: none;
+	color: black;
+}
+  
+#todo-list button:hover {
+	cursor: pointer;
+}
+  
+#quote {
+	text-align: center;
+	color: wheat;
+	margin-top: 0;
+	margin-bottom: 10px;
+}
+  
+#weather {
+	margin-top: 10px;
+	text-align: center;
+	color: whitesmoke;
+	font-weight: bold;
+}
