@@ -12,6 +12,6 @@
 
 첨부된 이미지는 완성된 프로젝트의 홈화면을 보여줍니다.
 
-![start](public/images/Momentum_Morning_2.jpeg)
+![start](image/Start.png)
 
-![End](public/images/Momentum_Afternoon_2.jpeg)
+![End](image/End.png)
