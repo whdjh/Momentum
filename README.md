@@ -12,6 +12,6 @@
 
 첨부된 이미지는 완성된 프로젝트의 홈화면을 보여줍니다.
 
-![start](image/Start.png)
+![start](image/start.png)
 
 ![End](image/End.png)
