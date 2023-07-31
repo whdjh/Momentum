@@ -1,6 +1,6 @@
 # Momentum Clone
 
-## 소개
+## 📜 소개
 **Momentum**이라는 웹페이지를 클론코딩하는 토이 프로젝트 입니다.
 
 현재 웹페이지에서 제공하는 핵심 기능 4가지입니다.
@@ -20,7 +20,7 @@
 * JS
 * HTML, CSS
 
-## CODE STRUCTURE
+## 🖥 CODE STRUCTURE
 * image
   
 * js
