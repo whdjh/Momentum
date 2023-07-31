@@ -15,3 +15,23 @@
 ![start](image/start.png)
 
 ![End](image/End.png)
+
+## 🛠 기술 스택
+* JS
+* HTML, CSS
+
+## CODE STRUCTURE
+* image
+  
+* js
+  - clock.js
+  - login.js
+  - background.js
+  - quote.js
+  - todo.js
+  - weather.js
+ 
+* style
+  - style.css
+
+*index.html
